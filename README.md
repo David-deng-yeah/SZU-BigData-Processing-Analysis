@@ -12,6 +12,9 @@ the complete inventory is shown below:
 * exp6 Big data probability density function estimation
 * exp7 Performance test of big data progressive fusion learning framework
 
-and i also write some blogs in site CSDN(although it is not a good site to learn cs)
-https://blog.csdn.net/np_hard/category_10946960.html?spm=1001.2014.3001.5482
+and i also write some blogs in site [CSDN](https://blog.csdn.net/np_hard/category_10946960.html?spm=1001.2014.3001.5482)(although it is not a good site to learn cs)
+
+
 that's all, thank for those who have help me in learning big data!
+
+writed by np_hard 2021/12/30
