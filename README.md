@@ -13,4 +13,5 @@ the complete inventory is shown below:
 * exp7 Performance test of big data progressive fusion learning framework
 
 and i also write some blogs in site CSDN(although it is not a good site to learn cs)
+https://blog.csdn.net/np_hard/category_10946960.html?spm=1001.2014.3001.5482
 that's all, thank for those who have help me in learning big data!
